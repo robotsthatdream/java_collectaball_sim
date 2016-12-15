@@ -26,7 +26,7 @@ Some objects were implemented (and its graphical representation with a class fin
 The executable program is set up to run the scenario with a robot that is connected to MDB. For this, two configuration files are needed (samples in the config folder): The collect a ball experiment config file and the MDB config file. To run the program:
 
 ```bash 
-$ CollectABall.jar -x -mdb config/CoinABall-Config.xml config/MDB-Config.xml
+$ CollectABall.jar -x -mdb config/CollectABall-Config.xml config/MDB-Config.xml
 ```
 The program will be waiting for the MDB execution so the both programs are connected. After this connection, the scenario window will appear. The MDB must be run with the same MDB config file used in CollectABall.
 
