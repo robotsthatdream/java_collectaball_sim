@@ -5,7 +5,7 @@ import es.udc.gii.collectaball.scenario.Scenario;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

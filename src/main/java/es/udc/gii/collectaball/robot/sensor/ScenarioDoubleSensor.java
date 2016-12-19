@@ -5,7 +5,7 @@ import es.udc.gii.collectaball.util.socket.SocketReader;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 
 

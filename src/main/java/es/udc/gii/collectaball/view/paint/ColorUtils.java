@@ -20,7 +20,7 @@ import java.awt.Color;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class ColorUtils {
 

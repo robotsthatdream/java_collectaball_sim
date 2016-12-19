@@ -24,7 +24,7 @@ import java.awt.Graphics2D;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class RobotSimulatorCanvas extends Canvas {
 

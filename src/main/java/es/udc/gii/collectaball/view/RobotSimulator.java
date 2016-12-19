@@ -31,7 +31,7 @@ import org.apache.commons.configuration.XMLConfiguration;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class RobotSimulator extends Thread{
 

@@ -8,7 +8,7 @@ import org.apache.commons.configuration.Configuration;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public class OpticalSensor extends DoubleSensor {
 

@@ -22,7 +22,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author pilar
+ * @author GII
  */
 public class RobotSimulatorFrame extends JFrame {
 

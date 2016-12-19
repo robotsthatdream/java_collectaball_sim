@@ -13,7 +13,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author Mastropiero
+ * @author GII
  */
 public class StateDistanceSinCosSensor extends MDBRobotSensor {
 

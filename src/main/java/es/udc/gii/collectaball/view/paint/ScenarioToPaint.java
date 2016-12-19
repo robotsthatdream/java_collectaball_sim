@@ -45,7 +45,7 @@ import org.apache.commons.configuration.Configuration;
 /**
  * Decora al escenario no lo extiende, lo encapsula para pintarlo
  *
- * @author pilar
+ * @author GII
  * @param <O>
  */
 public class ScenarioToPaint<O extends ObjectToPaint> implements Configurable {

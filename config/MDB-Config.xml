@@ -803,7 +803,7 @@ Configuration file for MDB
             <id>valueFunction</id>
             <approach>
                 <class>es.udc.gii.mdb.anji.ANJINEATModelApproach</class>
-                <configFile>__door/valuefunction.properties</configFile>  
+                <configFile>config/valuefunction.properties</configFile>  
             </approach>                   
             <inputs>
                 <id>ballDistance_t</id>
@@ -895,7 +895,7 @@ Configuration file for MDB
     <id>satisfactionModelLearning</id>
     <class>es.udc.gii.mdb.anji.ANJINEATLearningAlgorithm</class>
     <modelId>valueFunction</modelId>
-    <config>__door/valuefunction.properties</config> 
+    <config>config/valuefunction.properties</config> 
     <samples>1</samples>
     <populationfactor>2.0</populationfactor>
 </learning>
@@ -904,7 +904,7 @@ Configuration file for MDB
     <id>satisfactionModelLearning2</id>
     <class>es.udc.gii.mdb.anji.ANJINEATLearningAlgorithm</class>
     <modelId>valuefunction2</modelId>
-    <config>__door/valuefunction2.properties</config> 
+    <config>config/valuefunction2.properties</config> 
     <samples>1</samples>
     <populationfactor>2.0</populationfactor>
 </learning>
@@ -913,7 +913,7 @@ Configuration file for MDB
     <id>satisfactionModelLearning3</id>
     <class>es.udc.gii.mdb.anji.ANJINEATLearningAlgorithm</class>
     <modelId>valuefunction3</modelId>
-    <config>__door/valuefunction3.properties</config> 
+    <config>config/valuefunction3.properties</config> 
     <samples>1</samples>
     <populationfactor>2.0</populationfactor>
 </learning>
